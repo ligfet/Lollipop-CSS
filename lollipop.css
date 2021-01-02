@@ -1,0 +1,76 @@
+body {
+    background: #A1CAF1;
+    
+   background: linear-gradient(to bottom, #A1CAF1 60%, #90EE90 0%);
+  }
+  .lollybody { 
+  background: #ffb09c;
+   position: relative;
+  height: 400px;
+  width: 290px;
+  border-radius: 120px 120px 70px 70px;
+  margin: auto;
+  top: 90%;
+  margin-top: 20%;
+    z-index: 1;
+  }
+  
+  .stick {
+  background: #DF9D6C;
+    position: relative;
+  height: 120px;
+  width: 60px;
+  border-radius: 0px 0px 30px 30px;
+  margin: auto;
+  margin-top: -0.3%;
+    z-index: 2;
+    
+  }
+  
+  .eye_one {
+    background: #9E6B4A;
+    position: absolute;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    margin-left: 55%;
+    margin-top: -30%;
+    z-index: 3;
+  }
+  
+  .eye_two {
+    background: #9E6B4A;
+    position: absolute;
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    margin-left: 42%;
+    margin-top: -30%;
+    z-index: 3;
+  }
+  
+  .mouth {
+    background: #E35D6A;
+    position: absolute;
+    border-radius: 10px 10px 30px       30px;
+    height: 70px;
+    width: 135px;
+    margin: auto;
+    margin-left: 43%;
+    margin-top: -15%;
+    z-index: 3;
+  }
+  
+  .sun { 
+  background: #ffa500;
+  position: fixed;
+  height: 150px;
+  width: 150px;
+  top: 50px;
+  right: 40px;
+  margin-left: 20%;
+  border-radius: 50%;
+  border: 8px solid #ff6600;
+  }
